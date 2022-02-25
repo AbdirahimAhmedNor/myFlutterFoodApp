@@ -9,7 +9,7 @@ List populars = [
     "is_favorited": true,
     "price": "\$20.50",
     "name": "Cheesy Stake",
-    "description": "Breakfast and Brunch - American - Sandwich",
+    "description": """It is a long established fact that a reader will be distracted by the readable content of a page wChehen looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less)""",
     "sources": "Egg - Salad",
     "delivery_fee": "\$1.49 Delivery Fee",
     "rate": "4.3",
@@ -51,6 +51,7 @@ List populars = [
 
 ];
 
+
 List categories = [
   {
     "name" : "Salad",
@@ -74,7 +75,7 @@ List categories = [
   },
 ];
 
-const List featured = [
+ List featured = [
   {
     "image": "https://images.unsplash.com/photo-1604382354936-07c5d9983bd3?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8Zm9vZHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
     "is_favorited": true,

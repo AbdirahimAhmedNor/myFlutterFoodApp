@@ -19,7 +19,7 @@ class FavoriteBox extends StatelessWidget {
             color: primary,
             shape: BoxShape.circle
           ),
-          child: Icon(isFavorited ? Icons.favorite_rounded : Icons.favorite_outline_rounded, size: iconSize, color: Colors.white,)
+          child: Icon(Icons.delete, color: Colors.white)
         ),
       );
   }
